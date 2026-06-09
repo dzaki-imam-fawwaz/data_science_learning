@@ -1,0 +1,1 @@
+-- Calculate total sales per product
